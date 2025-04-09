@@ -1,0 +1,101 @@
+Collaborate with Starix and TW/C&E on the new game configuration,Amy
+Collaborate with TW on SabaPlay integration,Amy
+Collaborate with Starix (Cash site) and TW teams on the new game plan,Amy
+IT release arrangements,Amy
+Official release arrangements for Credit,Amy
+Official release arrangements for Licensee,Amy
+Studying game rules,Amy
+"Define game setting (Gameid, Bet Choice, Bet chip, Bot setting)",Amy
+[Client] - Wireframe and Gameplay Specification,Amy
+[Client] - Wireframe for Bet History,Amy
+[Client] - Wireframe for Scoreboard,Amy
+[Client] - Game guide content,Amy
+[Admin Site] - Game Result Controller,Amy
+[Admin Site] - Round History,Amy
+[Admin Site] - Game Management,Amy
+Tolgee Localizations,Amy
+Operator's Bet Details,Amy
+Game Introduction file,Amy
+Collaborate with C&E for Game banner content and Game Name,Amy
+Menu in Operator Frontend,Amy
+Running game cron,Vivian
+Bot,Vivian
+Settlement,Vivian
+Placing Bets,Vivian
+History,Vivian
+"Result Generation, Payout Checking ",Vivian
+Integration Tests,Vivian
+"Game Config (min/max bet, max multiplier, bot ratio, enable/disable)",Vivian
+Round History ,Vivian
+Online users,Vivian
+Void Game,Vivian
+Result Control,Vivian
+Bet Details,Vivian
+Game Round Result,Vivian
+Retrieve Endround API,Vivian
+Round History,Vivian
+Integration Tests,Vivian
+Layout Game UI (Game Table/Player/Sliding Chips/Buttons/Odds/Min/Max Bet),Vivian
+Place Bet,Vivian
+Settlement Dealer Animation (show result),Vivian
+Settlement Chip Flying and Payout Animation,Vivian
+Join Game (Connect Game Service),Vivian
+Leave Game and Rejoin Game,Vivian
+Add icon in Lobby / mini menu ,Vivian
+Add banner in Lobby,Vivian
+Game Guide,Vivian
+Scoreboard and Statistic,Vivian
+Game History,Vivian
+Splash screen,Vivian
+Game UI Background,April
+Game UI HUD,April
+Game UI Pop-up/Dialog,April
+Dealer - Graphic and Animation,April
+Game elements crafted to fit each game's unique mechanics and themes (dice or card or rock),April
+Game Icon - Lobby,April
+"Game icon, banner - SabaPlay",April
+Banner - Member site 8 size x 6 languages,April
+Banner - Lobby Center Banner (Play Now),April
+Banner Lobby x 6 languages,April
+Game UI Animation,April
+Exporting/Converting from PSD to Cocos/Spine 2D and assets management,April
+Game Icon Animation,April
+Game - Splash screen,April
+Decoration Elements Graphic and Animation,April
+Main Menu,April
+Bitmap Font Export,April
+Game Icon - Lobby,April
+Game Icon - PH Lobby ,April
+Animated Banner - PH Lobby,April
+Banner - Lobby 6 languages,April
+Banner - Member site 8 banners x 6 languages,April
+Game Icon Animation,April
+Game Splashscreen: Graphic -Animation - Progress Bar,April
+Audio Design - Background Music and SFX,April
+Background music,April
+SFX,April
+Indexes,Billy
+Daily Summary,Billy
+Archive Process,Billy
+BI Schema,Billy
+Analyse requirement and prepare checklist / test case,Nancy
+Local - Test game settlement (End Round + Retrieve End Round),Nancy
+Local - Test place bet + betting limit,Nancy
+Local - Test game UI/UX + animation,Nancy
+Local - Test Bet History,Nancy
+Local - Test Game Guide,Nancy
+Local - Test validate server side,Nancy
+Local - Test Bet Detail (call from Operator side),Nancy
+"Local - Test Admin (Management, Online Users, Bot Users, Monitoring)",Nancy
+"Local - Test Admin (Round History, Game Result, Void Round, Event Logs)",Nancy
+SIT/UAT - Test Game and integrate with Opertator side,Nancy
+SIT/UAT - Test Bet Detail (call from Operator side),Nancy
+"SIT/UAT - Test Admin (Management, Online Users, Bot Users, Monitoring)",Nancy
+"SIT/UAT - Test Admin (Round History, Game Result, Void Round, Event Logs)",Nancy
+SIT/UAT - Test validate server side,Nancy
+Review manual test case and pick cases to do automation,Nancy
+Admin Operator Bet Details,Nancy
+Admin Retrieve End Round,Nancy
+Smoke Test,Nancy
+End to end test,Nancy
+Game guide test,Nancy
